@@ -1,12 +1,10 @@
 <h1 align="center" id="title">Arklyte Travel Planner</h1>
 
-<p align="center"><img src="https://socialify.git.ci/koolkishan/nextjs-travel-planner/image?font=Raleway&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;pulls=1&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
-
 <p id="description">Travel Planner App with Live Web Scraping from various sources using Bright Data scraping browser.</p>
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/koolkishan/nextjs-travel-planner/blob/main/screenshots/ARKLYTE%20(3).png" alt="project-screenshot" width="100" height="100/">
+<img src="https://github.com/koolkishan/nextjs-travel-planner/blob/main/screenshots/ARKLYTE%20(3).png" alt="project-screenshot" >
 
   
   
